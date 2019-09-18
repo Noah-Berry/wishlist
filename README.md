@@ -27,10 +27,10 @@ This business will operate as a partnership. The following legal considerations 
 # Technical
 
 Technical steps include:
-Choosing a relational database and design the database schema
-Building a front end client on a mobile platform
-Building a back end server with technology yet to be determined
-Putting together the MVP, which includes:
-A simple display to search through any item for sale online and add to a specified list.
-A display to view created lists and the details of items saved to that list
-A way to view the lists of users that have connected with you
+1. Choosing a relational database and design the database schema
+2. Building a front end client on a mobile platform
+3. Building a back end server with technology yet to be determined
+4. Putting together the MVP, which includes:
+    - A simple display to search through any item for sale online and add to a specified list.
+    - A display to view created lists and the details of items saved to that list
+    - A way to view the lists of users that have connected with you
